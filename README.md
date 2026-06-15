@@ -1,6 +1,6 @@
 # hot-search-aggregator
 
-全网实时热搜聚合工具 —— 马维斯（Marvis）技能包。
+全网实时热搜聚合工具 —— 技能包。
 
 ## 功能
 
@@ -23,10 +23,6 @@ hot-search-aggregator/
 ├── SKILL.md        # 技能定义文件
 └── README.md
 ```
-
-## 安装到马维斯
-
-将整个 `hot-search-aggregator` 文件夹放入马维斯的 `skills/market/` 目录即可。
 
 ## 数据来源
 
